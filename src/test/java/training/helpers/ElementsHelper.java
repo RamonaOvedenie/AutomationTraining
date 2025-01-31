@@ -79,8 +79,5 @@ public class ElementsHelper {
             e.printStackTrace();
         }
     }
-
-    public void scrollDown() {
-    }
 }
 
